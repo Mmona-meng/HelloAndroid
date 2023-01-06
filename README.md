@@ -2,9 +2,9 @@
 
 Submitted by: **Xiaoqing Meng**
 
-*Hello Android** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Hello Android** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **3.5** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -34,6 +34,8 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+Spent a lot of time to explore the Android Studio and Android Directory Structure.
+Be more proficient in Git and Github workflow.
 
 ## License
 
